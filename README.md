@@ -1,2 +1,1 @@
 # smartwidgets
-jarvis.widget
